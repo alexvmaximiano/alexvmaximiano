@@ -12,6 +12,8 @@ Coding....
 <p align="left"> 
   Meu nome é Alex, tenho 29 anos. Estou estudando Análise e Desenvolvimento de Sistemas na UNIMAR. 
   Em migração para área de TI.
+  
+  Estudando: <br> <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
 </p>
 
 <p align="left">
