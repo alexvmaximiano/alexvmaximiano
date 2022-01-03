@@ -33,7 +33,7 @@ Coding....
 </p>
 
 <p align="left">
-  <a href="n4ow.dev@gmail.com" alt="Gmail">
+  <a href="mailto:n4ow.dev@gmail.com">
   <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=n4ow.dev@gmail.com" /></a>
 
   <a href="https://www.linkedin.com/in/alex-maximiano-35b086201/" alt="Linkedin">
