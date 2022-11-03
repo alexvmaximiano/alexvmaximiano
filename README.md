@@ -1,14 +1,7 @@
 # Alex Maximiano
 
-Technology student, looking to improve the world through codes. ❤️
-
+Technology student, looking to improve the world through codes.
 ----------------------------------------------------------------------
-
-Coding....
-💖
-
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador">
-
 <p align="left"> 
   Meu nome é Alex, tenho 29 anos. Estou estudando Análise e Desenvolvimento de Sistemas na UNIMAR. 
   Em migração para área de TI.
@@ -16,12 +9,6 @@ Coding....
   Estudando: <br> <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
 </p>
 
-<p align="left">
-  🦄 Linguagens:
-  
-  <a href="https://github.com/alexvmaximiano/github-readme-stats"> <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexvmaximiano&theme=bear" />
-</a>
 
 
 </p>
